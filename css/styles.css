@@ -1,0 +1,132 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  color: #07689f;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  color: #07689f;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #40a8c4;
+}
+
+hr{
+  border: none;
+  border-top: 0.5rem dotted #EAF6F6;
+  margin: 100px auto;
+  width: 5%;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  color: #40a8c4;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: auto;
+  padding: 5px 15px;
+  text-decoration: none;
+}
+
+.top-container{
+  background-color: #a2d5f2;
+  position: relative;
+  padding-top: 80px;
+}
+
+.middle-container{
+  padding-top: 50px;
+}
+
+.bottom-container{
+  background-color: #07689f;
+  margin-top: 80px;
+  padding: 50px 0 30px 0;
+  text-align: center;
+}
+
+.top-cloud{
+  display: block;
+  height: 150px;
+  position: absolute;
+  right: 250px;
+  top: 20px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+  height: 200px;
+}
+
+.rainbow{
+  height: 300px;
+}
+
+.profile-img{
+  border-radius: 100px;
+  height: 300px
+}
+
+.marketing-specialist{
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.bbq{
+  float: right;
+  margin-left: 30px;
+  width: 20%;
+}
+
+.skill-row{
+  margin: 100px auto;
+  text-align: left;
+  width: 60%;
+}
+
+.profile{
+  text-align: center;
+  margin: auto;
+  width: 30%;
+}
+
+.contact-me{
+  margin: auto;
+  width: 40%;
+}
+
+.btn{
+  background-color: #07689f;
+  border-radius: .5rem;
+  color: white;
+  display: block;
+  font-size: 1.2em;
+  margin: 40px auto 0;
+  text-decoration: none;
+  width: 150px;
+}
+
+.copyright{
+  color: white;
+  font-size: .7rem;
+  margin-top: 30px;
+}
